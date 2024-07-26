@@ -1,5 +1,5 @@
 module ();
-
+LOGIC a;
   initial
     begin
 
